@@ -1,4 +1,4 @@
-base<-C19_CLI_FIN_RPC_20_SEP_BaseAnalisisPrimario_Cox
+base<-C19_CLI_FIN_RPC_20_SEP_
 str(base)
 ######### MAIN DATABASE ##############
 # Data configuration ####
